@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [mehul10.hashnode.dev](mehul10.hashnode.dev)
 
-- 📫 How to reach me **https://www.linkedin.com/in/mehul-anand-a82540222/**
+- 📫 How to reach me **https://www.linkedin.com/in/mehul-anand-448400223/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
