@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mehul</h1>
 <h3 align="center">I am a front end developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mehul-anand" alt="mehul-anand" /></a> </p>
-
 - 🔭 I’m currently working on **solving front end interview preparation difficulties**
 
 - 🌱 I’m currently learning **React and Appwrite**
