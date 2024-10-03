@@ -1,19 +1,15 @@
 <h1 align="center">Hi 👋, I'm Mehul</h1>
 <h3 align="center">I am a full stack developer</h3>
 
-- 🔭 I’m currently working on **solving front end interview preparation difficulties**
-
+- 🔭 I’m currently interested in **open source and development**
+  
 - 🌱 I’m currently learning **React and Appwrite**
 
 - 👨‍💻 Portfolio [https://mehulanand.netlify.app/](https://mehulanand.netlify.app/)
 
-- 📝 My blogs [https://hashnode.com/@mehul10](https://hashnode.com/@mehul10)
-
 - 💬 Ask me about **React and JavaScript**
 
 - 📫 Mail **mehulanand78@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/10ZEmgl0A8CCqRGWQ3gBu3vtZF5y4c805/view?usp=drive_link](https://drive.google.com/file/d/10ZEmgl0A8CCqRGWQ3gBu3vtZF5y4c805/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
