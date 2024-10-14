@@ -1,4 +1,4 @@
-<h1 align="center">Hi , I'm Mehul <img src="https://raw.githubusercontent.com/ashu-guo/ashu-guo/main/assets/wave.gif" width="50px" height="50px"></img></h1>
+<h1 align="center"> <img src="https://raw.githubusercontent.com/ashu-guo/ashu-guo/main/assets/wave.gif" width="50px" height="50px"></img> Hi , I'm Mehul</h1>
 <h3 align="center">I am a full stack developer</h3>
 
 - 🔭 I’m currently interested in **open source and development**
@@ -13,9 +13,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/mehul_a7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mehul_a7" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mehul-anand-profilet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mehul-anand-profilet" height="30" width="40" /></a>
-<a href="https://codesandbox.com/mehul-anand" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="mehul-anand" height="30" width="40" /></a>
+<a href="https://x.com/mehul_a7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mehul_a7" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mehul-anand-profile/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mehul-anand-profilet" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -23,4 +22,10 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mehul-anand&show_icons=true&theme=radical&locale=en&layout=compact" alt="mehul-anand" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mehul-anand&theme=radical" alt="mehul-anand" /></p>
-
+<p >
+    <picture align="center">
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ashu-guo/ashu-guo/master/assets/github-contribution-grid-snake.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ashu-guo/ashu-guo/master/assets/github-contribution-grid-snake.svg">
+      <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ashu-guo/ashu-guo/master/assets/github-contribution-grid-snake.svg">
+    </picture>
+</p>
