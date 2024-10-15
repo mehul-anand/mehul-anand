@@ -5,7 +5,7 @@
   
 - 🌱 I’m currently learning **React and Appwrite**
 
-- 👨‍💻 Portfolio [https://mehulanand.netlify.app/](https://mehulanand.netlify.app/)
+- 👨‍💻 Portfolio [mehul.xyz](https://mehul.xyz/)
 
 - 💬 Ask me about **React and JavaScript**
 
