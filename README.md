@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently interested in **open source and development**
   
-- 🌱 I’m currently learning **React and Appwrite**
+- 🌱 I’m currently building projects and contributing to opensource
 
 - 👨‍💻 Portfolio [mehul.xyz](https://mehul.xyz/)
 
-- 💬 Ask me about **React and JavaScript**
+- 💬 Ask me about **Tech and Pizzas**
 
 - 📫 Mail **mehulanand78@gmail.com**
 
