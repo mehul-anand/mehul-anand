@@ -11,7 +11,7 @@
 
 - 📫 Mail **mehulanand78@gmail.com**
 
-- 📝 Blog [substack](https://mehulanand.substack.com/)
+- 📝 Blogs coming soon! [substack](https://mehulanand.substack.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
