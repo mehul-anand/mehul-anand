@@ -7,6 +7,8 @@
 
 - 👨‍💻 Portfolio [mehul.xyz](https://mehul.xyz/)
 
+- 📄 [Resume](https://kutt.it/resume-mehul)
+
 - 💬 Ask me about **Tech and Pizzas**
 
 - 📫 Mail **mehulanand78@gmail.com**
