@@ -26,8 +26,11 @@
 <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
 </p>
 
+<h3 align="left">Stats :</h3>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mehul-anand&show_icons=true&theme=radical&locale=en&layout=compact" alt="mehul-anand" /></p>
 <p><img align="center" src="https://nirzak-streak-stats.vercel.app?user=mehul-anand&theme=radical&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="mehul-anand" /></p>
+<h3 align="left">Trophies :</h3>
+<p><img align="center" src="https://github-profile-trophy.vercel.app/?username=mehul-anand&theme=onedark" alt="mehul-anand" /></p>
 <p >
     <picture align="center">
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ashu-guo/ashu-guo/master/assets/github-contribution-grid-snake.svg">
