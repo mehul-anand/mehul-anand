@@ -1,5 +1,5 @@
 <h1 align="center"> <!--<img src="https://raw.githubusercontent.com/ashu-guo/ashu-guo/main/assets/wave.gif" width="50px" height="50px"></img>--> Hi , I'm Mehul</h1>
-<h3 align="center">I am a full stack developer</h3>
+<h3 align="center">I am a full stack developer , FE heavy</h3>
 
 - 🔭 I’m currently interested in **open source and development**
   
