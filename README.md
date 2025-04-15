@@ -44,7 +44,11 @@
   <img src="https://skillicons.dev/icons?i=ubuntu" height="40" alt="Ubuntu Logo" />
 </div>
 
-</div>
+<br/>
+
+![Mehul's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mehul-anand&theme=tokyo-night)
+
+
 
 <h3 align="left">Stats :</h3>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mehul-anand&show_icons=true&theme=radical&locale=en&layout=compact" alt="mehul-anand" /></p>
