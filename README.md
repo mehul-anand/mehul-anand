@@ -30,7 +30,7 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mehul-anand&show_icons=true&theme=radical&locale=en&layout=compact" alt="mehul-anand" /></p>
 <p><img align="center" src="https://nirzak-streak-stats.vercel.app?user=mehul-anand&theme=radical&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="mehul-anand" /></p>
 <h3 align="left">Trophies :</h3>
-<p><img align="center" src="https://github-profile-trophy.vercel.app/?username=mehul-anand&theme=onedark" alt="mehul-anand" /></p>
+<!-- <p><img align="center" src="https://github-profile-trophy.vercel.app/?username=mehul-anand&theme=onedark" alt="mehul-anand" /></p> -->
 <p >
     <picture align="center">
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ashu-guo/ashu-guo/master/assets/github-contribution-grid-snake.svg">
