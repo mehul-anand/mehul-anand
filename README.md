@@ -17,14 +17,33 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://x.com/mehul_xyz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mehul_a7" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/mehulxyz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mehul-anand-profilet" height="30" width="40" /></a>
+<a href="https://x.com/mehul_xyz" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" alt="mehul_xyz" height="38" width="38" /></a>
+<a href="https://www.linkedin.com/in/mehulxyz" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="mehul-anand-profilet" height="38" width="38" /></a>
 </p>
-
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://supabase.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" alt="supabase" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
-<a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-</p>
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git logo" />
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML logo" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS logo" />
+  <img src="https://skillicons.dev/icons?i=scss" height="40" alt="SCSS logo" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="Tailwind CSS logo" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="Bootstrap logo" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript logo" />
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="TypeScript logo" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="React logo" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="Node.js logo" />
+  <img src="https://skillicons.dev/icons?i=mongo" height="40" alt="MongoDB logo" />
+  <img src="https://skillicons.dev/icons?i=expressjs" height="40" alt="Express.js logo" />
+  <img src="https://skillicons.dev/icons?i=redux" height="40" alt="Redux logo" />
+  <img src="https://skillicons.dev/icons?i=supabase" height="40" alt="Supabase logo" />
+  <img src="https://skillicons.dev/icons?i=latex" height="40" alt="LaTeX logo" />
+  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="Postman logo" />
+  <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="Vercel logo" />
+  <img src="https://skillicons.dev/icons?i=netlify" height="40" alt="Netlify logo" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="VS Code logo" />
+</div>
+
+</div>
 
 <h3 align="left">Stats :</h3>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mehul-anand&show_icons=true&theme=radical&locale=en&layout=compact" alt="mehul-anand" /></p>
