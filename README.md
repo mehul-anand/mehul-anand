@@ -5,9 +5,9 @@
   
 - 🌱 I’m currently building projects and contributing to opensource
 
-- 👨‍💻 Portfolio [mehul.xyz](https://mehul.xyz/)
+- 👨‍💻 Portfolio <a href="https://mehul.xyz/" target="_blank" rel="noopener noreferrer">mehul.xyz</a>
 
-- 📄 [Resume](https://kutt.it/resume-mehul)
+- 📄 <a href="https://kutt.it/resume-mehul" target="_blank" rel="noopener noreferrer">Resume</a>
 
 - 💬 Ask me about **Tech, Coffee and Pizzas**
 
