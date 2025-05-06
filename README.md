@@ -41,6 +41,8 @@
   <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="Vercel logo" />
   <img src="https://skillicons.dev/icons?i=netlify" height="40" alt="Netlify logo" />
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="VS Code logo" />
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="Python" />
+  <img src="https://skillicons.dev/icons?i=md" height="40" alt="Markdown" />
 <!--   <img src="https://skillicons.dev/icons?i=ubuntu" height="40" alt="Ubuntu Logo" /> -->
 </div>
 
