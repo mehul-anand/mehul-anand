@@ -1,15 +1,15 @@
 <h1 align="center"> <!--<img src="https://raw.githubusercontent.com/ashu-guo/ashu-guo/main/assets/wave.gif" width="50px" height="50px"></img>--> Hi , I'm Mehul</h1>
-<h3 align="center">I am a full stack developer , FE heavy</h3>
+<h3 align="center">I am a software engineer , working in Develeopment and AI</h3>
 
-- 🔭 I’m currently interested in **open source and development**
+- 🔭 I’m currently interested in **Development and AI Agents**
   
-- 🌱 I’m currently building projects and contributing to opensource
+- 🌱 I’m currently an intern at IIT Delhi working in Reinforcement Learning and Robotic Navigation and I am also working on some fullstack projects.
+
+- 💬 Ask me about **Tech, Coffee and Pizzas**
 
 - 👨‍💻 Portfolio <a href="https://mehul.xyz/" target="_blank" rel="noopener noreferrer">mehul.xyz</a>
 
 - 📄 <a href="https://kutt.it/resume-mehul" target="_blank" rel="noopener noreferrer">Resume</a>
-
-- 💬 Ask me about **Tech, Coffee and Pizzas**
 
 - 📫 Mail **mehulanand78@gmail.com**
 
