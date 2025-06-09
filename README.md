@@ -48,19 +48,21 @@
 
 <br/>
 
-![Mehul's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mehul-anand&theme=tokyo-night)
+<!-- ![Mehul's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mehul-anand&theme=tokyo-night) -->
 
 
 
-<h3 align="left">Stats :</h3>
+<!--<h3 align="left">Stats :</h3>-->
 <!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mehul-anand&show_icons=true&theme=radical&locale=en&layout=compact" alt="mehul-anand" /></p> -->
-<p><img align="center" src="https://nirzak-streak-stats.vercel.app?user=mehul-anand&theme=radical&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="mehul-anand" /></p>
+<!-- <p><img align="center" src="https://nirzak-streak-stats.vercel.app?user=mehul-anand&theme=radical&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="mehul-anand" /></p> -->
 <!-- <h3 align="left">Trophies :</h3> -->
 <!-- <p><img align="center" src="https://github-profile-trophy.vercel.app/?username=mehul-anand&theme=onedark" alt="mehul-anand" /></p> -->
-<p >
-    <picture align="center">
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ashu-guo/ashu-guo/master/assets/github-contribution-grid-snake.svg">
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ashu-guo/ashu-guo/master/assets/github-contribution-grid-snake.svg">
-      <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ashu-guo/ashu-guo/master/assets/github-contribution-grid-snake.svg">
-    </picture>
-</p>
+<!--<div style="border:10px solid #846eee; text-align: center; width:100px">-->
+<div>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ashu-guo/ashu-guo/master/assets/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ashu-guo/ashu-guo/master/assets/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ashu-guo/ashu-guo/master/assets/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
