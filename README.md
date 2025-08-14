@@ -5,7 +5,7 @@
   
 - At Present : Intern at IIT Delhi : Reinforcement Learning and Robotic Navigation.
 
-- Currently learning : GenerativeA [Chain of Thought at the moment] and Control Barrier Functions [RL]
+- Currently learning : Chain of Thought [GenAI] and Control Barrier Functions [RL]
 
 - Ask me about : **Tech, Coffee and Pizzas**
 
