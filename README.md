@@ -7,7 +7,9 @@
 
 - Currently learning : Chain of Thought [GenAI] and Control Barrier Functions [RL]
 
-- Ask me about : **Tech, Coffee and Pizzas**
+- Currently Building : A coding agent to build MVPs [as a web app and a code assistant for CLI] (2 projects)
+
+- Ask me about : **Tech, Coffee, Music, Cats and Pizzas**
 
 - Portfolio : <a href="https://mehul.xyz/" target="_blank" rel="noopener noreferrer">mehul.xyz</a>
 
