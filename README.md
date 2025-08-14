@@ -1,19 +1,21 @@
 <h1 align="center"> <!--<img src="https://raw.githubusercontent.com/ashu-guo/ashu-guo/main/assets/wave.gif" width="50px" height="50px"></img>--> Hi , I'm Mehul</h1>
 <h3 align="center">I am a software engineer , working in Develeopment and AI</h3>
 
-- 🔭 I’m currently interested in **Development and AI Agents**
+- Areas of Interest : **GenAI x Reinforcement Learning x Software Engineering**
   
-- 🌱 I’m currently an intern at IIT Delhi working in Reinforcement Learning and Robotic Navigation and I am also working on some fullstack projects.
+- At Present : Intern at IIT Delhi : Reinforcement Learning and Robotic Navigation.
 
-- 💬 Ask me about **Tech, Coffee and Pizzas**
+- Currently learning : GenerativeA [Chain of Thought at the moment] and Control Barrier Functions [RL]
 
-- 👨‍💻 Portfolio <a href="https://mehul.xyz/" target="_blank" rel="noopener noreferrer">mehul.xyz</a>
+- Ask me about : **Tech, Coffee and Pizzas**
 
-- 📄 <a href="https://kutt.it/resume-mehul" target="_blank" rel="noopener noreferrer">Resume</a>
+- Portfolio : <a href="https://mehul.xyz/" target="_blank" rel="noopener noreferrer">mehul.xyz</a>
 
-- 📫 Mail **mehulanand78@gmail.com**
+- Resume : <a href="https://kutt.it/resume-mehul" target="_blank" rel="noopener noreferrer">link</a>
 
-- 📝 Blogs [substack](https://mehulanand.substack.com/)
+- Mail : **mehulanand78@gmail.com**
+
+- Blog : [substack](https://mehulanand.substack.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
