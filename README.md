@@ -5,7 +5,7 @@
   
 - At Present : Intern at IIT Delhi : Reinforcement Learning and Robotic Navigation.
 
-- Currently learning : Chain of Thought [GenAI] and Control Barrier Functions [RL]
+- Currently learning : RAG [GenAI] and Control Barrier Functions [RL]
 
 - Currently Building : A coding agent to build MVPs [as a web app and a code assistant for CLI] (2 projects)
 
