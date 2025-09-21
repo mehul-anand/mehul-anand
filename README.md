@@ -15,7 +15,7 @@
 
 - Resume : <a href="https://kutt.it/resume-mehul" target="_blank" rel="noopener noreferrer">link</a>
 
-- Mail : **mehulanand78@gmail.com**
+- Mail : **mehulanand.work@gmail.com**
 
 - Blog : [substack](https://mehulanand.substack.com/)
 
