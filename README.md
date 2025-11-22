@@ -5,9 +5,9 @@
   
 - At Present : Intern at IIT Delhi : Reinforcement Learning and Robotic Navigation.
 
-- Currently learning : RAG [GenAI] and Control Barrier Functions [RL]
+- Currently learning : Fine-tuning LMs and Control Barrier Functions [RL]
 
-- Currently Building : A coding agent to build MVPs [as a web app and a code assistant for CLI] (2 projects)
+- Currently Building : Fine-tuning Llama-3.2-1B for classification and a implementing Corrective RAG with HyDe and Query decomposition functionality 
 
 - Ask me about : **Tech, Coffee, Music, Cats, Rubik's cube and Pizzas**
 
