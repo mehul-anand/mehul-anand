@@ -15,7 +15,7 @@ _ Future Projects : Fine-tuning Llama-3.2-1B for classification
 
 - Portfolio : <a href="https://mehul.xyz/" target="_blank" rel="noopener noreferrer">mehul.xyz</a>
 
-- Resume : <a href="https://kutt.it/resume-mehul" target="_blank" rel="noopener noreferrer">link</a>
+- Resume : <a href="https://dub.sh/mehul-resume" target="_blank" rel="noopener noreferrer">link</a>
 
 - Mail : **mehulanand.work@gmail.com**
 
