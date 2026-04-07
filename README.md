@@ -7,7 +7,9 @@
 
 - Currently learning : Fine-tuning LMs and Control Barrier Functions [RL]
 
-- Currently Building : Fine-tuning Llama-3.2-1B for classification and a implementing Corrective RAG with HyDe and Query decomposition functionality 
+- Currently Building : Making a small language model from scratch and a implementing Corrective RAG with HyDe and Query decomposition functionality
+
+_ Future Projects : Fine-tuning Llama-3.2-1B for classification
 
 - Ask me about : **Tech, Coffee, Music, Cats, Rubik's cube and Pizzas**
 
