@@ -7,11 +7,11 @@
 
 - Currently learning : RAG Evaluation and Optimization strategies, Transformers and Control Barrier Functions [RL]
 
-- Currently Building : Making a small language model from scratch and a implementing Corrective RAG with HyDe and Query decomposition functionality
+- Currently Building : Making a small language model from scratch [DONE | onto further upgrades] and a implementing Corrective RAG with HyDe and Query decomposition functionality [ONGOING]
 
-- Future Projects : Fine-tuning Llama-3.2-1B for classification
+- Future Projects : Fine-tuning Llama-3.2-1B for classification [VERY FUN]
 
-- Ask me about : **Tech, Coffee, Music, Cats, Rubik's cube and Pizzas**
+- Ask me about : **Tech, Coffee, Music, Cats, Rubik's cube, Pizzas and Neovim (btw)**
 
 - Portfolio : <a href="https://mehul.xyz/" target="_blank" rel="noopener noreferrer">mehul.xyz</a>
 
