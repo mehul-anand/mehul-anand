@@ -5,7 +5,7 @@
   
 - At Present : Intern at IIT Delhi : Reinforcement Learning and Robotic Navigation.
 
-- Currently learning : RAG Evaluation and Optimization strategies, Transformers and Control Barrier Functions [RL]
+- Currently learning : RAG Evaluation and Optimization strategies, Transformer Architecture and Reinforcement Learning.
 
 - Currently Building : Making a small language model from scratch [DONE | onto further upgrades] and a implementing Corrective RAG with HyDe and Query decomposition functionality [ONGOING]
 
