@@ -24,6 +24,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://x.com/mehul_xyz" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" alt="mehul_xyz" height="38" width="38" /></a>
+  
 <a href="https://www.linkedin.com/in/mehulxyz" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="mehul-anand-profilet" height="38" width="38" /></a>
 </p>
 <h3 align="left">Languages and Tools:</h3>
