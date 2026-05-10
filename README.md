@@ -11,7 +11,7 @@
 
 - Future Projects : Fine-tuning Llama-3.2-1B for classification [VERY FUN]
 
-- Ask me about : **Tech, Coffee, Music, Cats, Rubik's cube, Pizzas and Neovim (btw)**
+- Ask me about : **Tech, Coffee, Music, Cats, Rubik's cube (PR : 20.77 Seconds), Pizzas and Neovim (btw)**
 
 - Portfolio : <a href="https://mehul.xyz/" target="_blank" rel="noopener noreferrer">mehul.xyz</a>
 
